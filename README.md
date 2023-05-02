@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Mugumya Twarik Harouna**, Based in Kampala, Uganda. I am Data Engineer, having interest in Applied Machine Learning.
+I am **Mugumya Twarik Harouna**, Based in London, United Kingdom. I am Data Engineer, having interest in Applied Machine Learning.
 <!--
 **twarik/twarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
