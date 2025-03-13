@@ -1,7 +1,6 @@
-### Hi there 👋
-I'm Twarik!
+## Hi there 👋 I'm Twarik!
 
-## Data Scientist focusing on Applied Machine Learning
+### Data Scientist focusing on Applied Machine Learning
 
 - Location: Uganda
 - Email: mtwarikharouna@gmail.com
